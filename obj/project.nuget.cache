@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnRM2/9ucQazZccJftX/aIrXNVrgUmpDCEMaMsJ4g5B9STxQF8y8hgbPJ/WMG7cmewDDkGvaL8inLJL/xrdZQw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Home pc\\Dropbox\\My PC (DESKTOP-L8Q5D7F)\\Desktop\\INET.LAB4\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.IO.Ports (>= 5.0.1)' for 'net5.0'.",
+      "libraryId": "System.IO.Ports",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
